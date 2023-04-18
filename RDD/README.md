@@ -1,10 +1,10 @@
 # Should the legal age for drinking be reduced from 21?
-The code implements a regression discontinuity design (RDD) to answer the question.
+The code implements a regression discontinuity design (RDD) to answer the above question.
 * Determines if alcohol increases the chances of death by 
-  - accident, 
-  - suicide and/or 
+  - accident
+  - suicide
   - others
-* Concludes the trade-offs of choosing different bandwidths for the design. Bandwidth used: 
+* Comprehends the trade-offs of choosing different bandwidths for the design. Bandwidth used: 
   - 1 year (i.e., 21 +- 1).
   - 6 months (i.e., 21 +-0.5).
   - maximum (i.e. entire data).
